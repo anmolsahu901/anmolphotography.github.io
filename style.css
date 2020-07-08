@@ -1,16 +1,34 @@
 body{
-  
-  background-image: linear-gradient(rgb(248, 237, 201),rgb(245, 216, 154));
+  margin:0;
+  margin-bottom: -50px;
+  padding:0;
+  background-image: linear-gradient(rgb(250, 212, 130),rgb(253, 214, 128));
   background-repeat: no-repeat;
 }
 #navi
 {
   background-color: rgb(3, 52, 109);
 }
-.carousel-inner img {
+.carousel-inner img 
+{
   position: relative;
   width: 100%;
   height: 100%;
 }
-
+#footer
+{
+  background-color: rgb(0, 2, 32);
+  padding-bottom: 1px;
+}
+#paraonphotograph
+{
+  font-weight: 400;
+}
+#icons i:hover{
+  color: rgb(0, 217, 255);
+  
+}
+#icon i:active{
+  color: rgb(46, 156, 175);
+}
  
