@@ -2,8 +2,7 @@ body{
   margin:0;
   margin-bottom: -50px;
   padding:0;
-  background-image: linear-gradient(rgb(250, 212, 130),rgb(253, 214, 128));
-  background-repeat: no-repeat;
+  background-color: white;
 }
 #navi
 {
@@ -25,10 +24,9 @@ body{
   font-weight: 400;
 }
 #icons i:hover{
-  color: rgb(0, 217, 255);
-  
+  color: rgb(17, 163, 189);
 }
 #icon i:active{
-  color: rgb(46, 156, 175);
+  color: rgb(19, 172, 199);
 }
  
